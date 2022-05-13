@@ -1,0 +1,15 @@
+.cover__background {
+    text-decoration: none;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    min-height: 740px;
+    background-image: url(../../../sprint-3-images/cover-trains.jpg);
+    background-size: cover;
+    z-index: 1;
+    }
+
+    

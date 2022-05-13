@@ -1,0 +1,6 @@
+link.footer__item {
+    margin-right: 18px;
+  }
+  .footer__item:nth-child(5) {
+    margin-right: 0;
+  }

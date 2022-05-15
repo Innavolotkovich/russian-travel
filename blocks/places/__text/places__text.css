@@ -1,5 +1,19 @@
 .places__text {
-    font-weight: 400;
-    font-size: 18px;
-    line-height: 1.63;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 29px;
+}
+
+@media screen and (max-width: 768px) {
+  .places__text {
+    font-size: 16px;
+    line-height: 26px;
   }
+}
+
+@media screen and (max-width: 320px) {
+  .places__text {
+    font-size: 16px;
+    line-height: 26px;
+  }
+}

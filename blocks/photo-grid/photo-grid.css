@@ -29,6 +29,9 @@
     .photo-grid {
       padding: 64px 16px 0;
       grid-template-columns: 1fr;
-      column-gap: 12px;
+      row-gap: 12px;
+      
     }
   }
+
+  

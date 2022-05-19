@@ -2,7 +2,7 @@
 
 Данный проект представляет собой одностраничный сайт с несколькими секциями.
 
-Страница сайта расположена по адресу: https://github.com/Innavolotkovich/russian-travel.git
+Страница сайта расположена по адресу: https://innavolotkovich.github.io/russian-travel/
 
 
 ## *Требования*
